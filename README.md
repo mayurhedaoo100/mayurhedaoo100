@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name] 🚀</h1>
+<h1 align="center">Hey there! 👋 I'm Mayur Hedaoo 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder Animation">
@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Featured Projects
-- **(currently private)
+- *currently private*
 
 ---
 
