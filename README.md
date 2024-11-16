@@ -28,24 +28,22 @@
 
 ### 🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurhedaoo100&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurhedaoo100&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- **[YuvaFit](https://github.com/your-username/YuvaFit)**: Helping youth manage their physical and mental health.  
-- **[Travel Planner](https://github.com/your-username/Travel-Planner)**: A smart way to plan trips and explore destinations.  
-- **[Expense Tracker](https://github.com/your-username/Expense-Tracker)**: Simplify and split expenses with friends.  
+- **(currently private)
 
 ---
 
 ### 📬 Connect With Me
-- 🌐 [Portfolio Website](https://your-website-link.com)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🌐 [Portfolio Website](https://hedaoomayur.netlify.app/)
+- 📧 Email: [mayurh100@gmail.com](mailto:mayurh100@gmail.com)
+- 🌐 Instagram: [instagram.com/hedaoomayur](https://instagram.com/hedaoomayur)
+- 💼 LinkedIn: [linkedin.com/in/hedaoomayur](https://www.linkedin.com/in/hedaoomayur)
 
 ---
 
@@ -60,7 +58,7 @@
 
 ### ⚡ Currently Working On
 - Enhancing the **YuvaFit App** with exciting new features!
-- Building a **portfolio site** to showcase my journey.
+- Building a **Live projects** to showcase my portfolio.
 
 ---
 
