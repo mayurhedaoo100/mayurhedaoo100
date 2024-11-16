@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Mayur Hedaoo (Android & React Native Developer)</h1>
+<h1 align="center">Hey there! 👋 I'm Android & React Native Developer</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+  <a href="https://hedaoomayur.netlify.app/" ><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"></a>
 </p>
 
 ---
