@@ -14,15 +14,17 @@
 ---
 
 ### 🛠️ Technologies I Work With
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-023047?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0099F7?style=flat-square&logo=framer&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-52b788?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-00A3E0?style=flat-square&logo=api&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -34,7 +36,7 @@
 ### 📬 Connect With Me
 - 🌐 [Portfolio Website](https://hedaoomayur.netlify.app/)
 - 📧 Email: [mayurh100@gmail.com](mailto:mayurh100@gmail.com)
-- 🌐 Instagram: [instagram.com/hedaoomayur](https://instagram.com/hedaoomayur)
+- 🚬 Instagram: [instagram.com/hedaoomayur](https://instagram.com/hedaoomayur)
 - 💼 LinkedIn: [linkedin.com/in/hedaoomayur](https://www.linkedin.com/in/hedaoomayur)
 
 ---
