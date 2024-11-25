@@ -15,7 +15,6 @@
 
 ### 🛠️ Technologies I Work With
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-023047?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0099F7?style=flat-square&logo=framer&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-52b788?style=flat-square&logo=supabase&logoColor=white)
